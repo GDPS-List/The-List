@@ -1,18 +1,13 @@
 {
-    "id": 57436521,
-    "name": "Cant let go",
-    "author": "Robtop",
-    "creators": ["Robtop"],
-    "verifier": "NoyanUk",
-    "verification": "https://youtu.be/bMYJqEk8n3Q?si=b0kdpX0jQUhgjwZQ",
-    "percentToQualify": 2,
-    "password": "Not Copyable",
+    "id": 142,
+    "name": "Hardest 2p level",
+    "author": "KitKat",
+    "creators": ["KitKat"],
+    "verifier": "KitKat",
+    "percentToQualify": 90,
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "MoonUk",
-            "link": "https://youtu.be/Lmn2qsUM4No?si=6XihKunXaVhts0TS",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
